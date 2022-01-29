@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WallpaperApp</string>
+    <string name="link">&lt;a href="http://instagram.com/%1$s">@%1$s&lt;/a></string>
+</resources>
